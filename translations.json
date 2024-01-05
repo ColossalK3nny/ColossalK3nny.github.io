@@ -1,0 +1,191 @@
+{
+    "about": {
+      "en": "About me",
+      "hu": "Rólam"
+    },
+    "button": {
+      "en": "Switch to Hungarian",
+      "hu": "Váltás Angol Nyelvre"
+    },
+    "experience": {
+        "en": "Experience",
+        "hu": "Tapasztalatok"
+      },
+      "education": {
+        "en": "Education",
+        "hu": "Tanulmányok"
+      },
+      "skills": {
+        "en": "Skills",
+        "hu": "Készségek"
+      },
+      "interests": {
+        "en": "Interests",
+        "hu": "Érdeklődési kör"
+      },
+      "about-text": {
+        "en": "I am currently employed at Electrolux Lehel Kft. since the summer of 2017. Since September 2021, I have been working as a Quality Laboratory Engineer. My main responsibilities include conducting comprehensive quality and product development tests on the products we manufacture. This includes developing, testing, analyzing, and reporting test procedures to simulate market complaint issues, as well as developing solutions to address these issues in collaboration with the product development team. I am also responsible for supervising and operating the laboratory's own offline computers used for certain tests. This has enabled me to automate certain test procedures and write scripts for timing purposes. In addition, instead of maintaining records in Excel, I developed a web application using the Laravel framework, which makes record keeping more transparent, information flow more efficient, and weekly inventory management more automated.",
+        "hu": "Jelenleg az Electrolux Lehel Kft. alkalmazásában állok, 2017 nyara óta. 2021 szeptembere óta Minőségirányítási labormérnök pozíciót töltök be. Főbb feladataim közé tartozik az általunk gyártott termékek minőségügyi és termékfejlesztési szempontból történő átfogó vizsgálata. Ebbe bele tartoznak például a piaci reklamációs problémák szimulálására teszteljárások kidolgozása, tesztelése, elemzése, riportálása és a termékfejlesztési csapattal ezen probléma megoldására fejlesztések kidolgozása. Feladatom még, bizonyos tesztekhez használt, a labor saját offline számítógépeinek felügyelete és üzemeltetése is. Ezáltal lehetőségem nyílt bizonyos teszt eljárások automatizálására vagy éppen időzítésére használatos scriptek írására, futtatására. Ezen felül a még excelben vezetett nyilvántartó táblázat helyett Laravel keretrendszerben fejlesztettem egy webalkalmazást, amely segítségével átláthatóbb a nyilvántartás, hatékonyabb az információ áramlás, illetve a heti leltár is automatizálható."
+      },
+      "about-text2": {
+        "en": "In addition to my work, I am currently a student of theComputer Science, Software Developer specialisation at Nyíregyházi Egyetem, where I am currently completing my final semester. I plan to continue my studies in a BSc program starting from September.",
+        "hu": "  Munkám mellett jelenleg a Nyíreyházi Egyetem Programtervező informatikus Foszk. szakának hallgatója vagyok, ahol jelenleg már utolsó félévem teljesítem. Terveim szerint szeptembertől tanulmányaimat Bsc képzésen szeretném folytatni."
+      },
+      "engineer": {
+        "en": "Quality laboratory engineer",
+        "hu": "Minőségirányítási Labormérnök"
+      },
+      "engineer2": {
+        "en": "Scheduling and execution of laboratory measurements in accordance with market, product development and quality management requirements. Documentation, recording and reporting of measurements. Analysis of improperly functioning devices, development of new measurement and simulation procedures for more in‑depth examination.",
+        "hu": "Labormérések ütemezése, kivitelezése a piaci, termékfejlesztési és minőségirányítási igényeknek megfelelően. Ezen mérések dokumentálása, jegyzőkönyvezése, riportálása. Nem megfelelően működő készülékek elemzése, behatóbb vizsgálatához új mérési és szimulációs eljárások kidolgozása."
+      },
+      "date": {
+        "en": "09/2021 - Present",
+        "hu": "09/2021 - Jelenleg is"
+      },
+      "technician": {
+        "en": "Process Analyst Technician",
+        "hu": "Folyamatelemző Technikus"
+      },
+      "technician2": {
+        "en": "Supports of Laboratory Engineers , organization and supervision of background process supporting measurements.",
+        "hu": "Labormérnökök támogatása, méréseket támogató háttér folyamatok szervezése, felügyelete."
+      },
+      "petrol": {
+        "en": "Petrol station operator",
+        "hu": "Töltőállomás kezelő"
+      },
+      "petrol2": {
+        "en": "Operation of petrol stations and cash registers.",
+        "hu": "Töltőállomások és pénztárgép kezelése."
+      },
+      "sales": {
+        "en": "Direct Sales",
+        "hu": "Direkt Értékesítő"
+      },
+      "sales2": {
+        "en": " Presentation and sale of the company's products and services, recording of requests in the company's systems.  ",
+        "hu": "A vállalat termékeinek és szolgáltatásainak bemutatása, értékesítése, igénybejelentések rögzítése a vállalat rendszereiben."
+      },
+      "education2": {
+        "en": "Computer Science, Software Developer specialisation",
+        "hu": "Programtervező informatikus, Fejlesztő specializáció"
+      },
+      
+      "graduation": {
+        "en": "Graduation",
+        "hu": "Érettségi"
+      },
+      "welding": {
+        "en": "MAG welding",
+        "hu": "Fogyóelektródás Védőgázas Ívhegesztő"
+      },
+      "tinsmith": {
+        "en": "tinsmith",
+        "hu": "Épület És Építménybádogos"
+      },
+      "english": {
+        "en": "English language communication level",
+        "hu": "Angol nyelv kommunikációs szinten"
+      },
+      "50001": {
+        "en": "ISO 5001:2018 Internal Auditor",
+        "hu": "ISO 5001:2018 Belső Auditor"
+      },
+      "9001": {
+        "en": "ISO 9001-ISO 14001 Internal Auditor",
+        "hu": "ISO 9001-ISO 14001 Belső Auditor"
+      },
+      "fire": {
+        "en": "Fire Protection Exam Category 1 and 2",
+        "hu": "Tűzvédelmi Szakvizsga 1. És 2. kategória"
+      },
+      "excel": {
+        "en": "Advanced Excel course",
+        "hu": "Haladó Excel Tanfolyam"
+      },
+      "certificates": {
+        "en": "Certificates",
+        "hu": "Tanusítványok"
+      },
+      "interests2": {
+        "en": "Primarily, I am interested in everything related to computer science. I enjoy keeping up with the latest developments in the field and understanding them, whether they are software or hardware related. I like to experiment and contemplate solutions to problems that arise, or research them. Thus, it can be said that computer science is my main hobby. I enjoy the challenges it presents, such as creating dual-triple boot systems, where for example, one can install Windows, Linux, and even MacOS on a non-Apple computer. I started tinkering with computers as a hobby when I was 12 years old. At that time, I had a Pentium 1 computer with DOS and Norton Commander. Since then, a lot has happened, and much has changed. I have learned a lot and developed my skills. I have built and configured numerous computers, repaired laptops, and set up home networks and servers.",
+        "hu": "Elsősorban minden ami informatika. Szeretek az informatika újdonságaival és azok megértésével foglalkozni. Legyen az szoftveres vagy hardveres eredetű. Szeretek kísérletezni, és a felmerülő problémák megoldásán töprengeni, vagy kutatni utánuk. Így mondhatjuk, hogy az informatika a fő hobbim. Szeretem a benne rejlő kihívásokat. Például dual-triple boot rendszerek létrehozását, ahol mondjuk egy nem apple rendszerű gépen windows és linux mellé, akár egy macos-t is fel lehet ügyeskedni. 12 éves koromban kezdtem el hobbi szinten a számítógépekkel foglalkozni. Akkor még egy Pentium 1-es számítógéppel, DOS én Norton Commander párossal. Azóta sok minden történt, és sok minden változott, sokat tanultam és sokat fejlődtem. Építettem, konfiguráltam számítógépeket, javítottam laptopokat, kiépítettem otthoni hálózatokat, szervereket."
+      },
+      "interests3": {
+        "en": "Additionally, I really enjoy reading, hiking, cycling, going to concerts, and spending time with friends.",
+        "hu": "Emellett nagyon szeretek olvasni, túrázni, kerékpározni, koncertre és társaságba járni."
+      },
+      "demo": {
+        "en": "My works",
+        "hu": "Munkáim"
+      },
+      "demo-text": {
+        "en": "This was a course project for Server-side and Client-side programming that eventually grew into a complete system. It includes security features, email verification, and access control. A DEMO version of the application that excludes certain functions is available by clicking on the image below.",
+        "hu": "Szerver és kliensoldali programozás tárgyra készült beadandó feladat, ami végül egy teljes rendszerré nőtte ki magát. Biztonsági funkciókkal, email hitelesítéssel, jogosultság kezeléssel. Ezen alkalmazás DEMO és bizonyos funkcióktól mentes változata érhető el az alábbi képre kattintva."
+      },
+      "download": {
+        "en": "Download CV",
+        "hu": "Önéletrajzom letöltése"
+      },
+      "cookie":{
+        "en": "Cookies Consent",
+        "hu": "Sütik Elfogadása"
+      },
+      "cookie-text":{
+        "en": "This website uses cookies to ensure you get the best experience on our website.",
+        "hu": "Ez a weboldal sütiket használ a legjobb felhasználói élmény biztosítása érdekében."
+      },
+      "cookie-accept":{
+        "en": "Accept",
+        "hu": "Elfogadom"
+      },
+      "CvDown":{
+        "en": "Download CV",
+        "hu": "Önéletrajz letöltése"
+      },
+      "CvChoose":{
+        "en": "Choose a language",
+        "hu": "Válassza ki a nyelvet"
+      },
+      "Registry":{
+        "en": "Registry webapp",
+        "hu": "Nyilvántartó"
+      },
+      "MyWorks":{
+        "en": "My Works",
+        "hu": "Munkáim"
+      },
+      "Weather":{
+        "en": "Android Weather App",
+        "hu": "Android Időjárás App"
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
