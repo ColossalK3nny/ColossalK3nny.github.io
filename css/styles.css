@@ -11214,7 +11214,7 @@ section.resume-section .resume-section-content {
 
 #mysection {
   position: relative;
-  background-image: url('https://github.com/ColossalK3nny/colossalk3nny.github.io/blob/main/background.jpg');
+  background-image: url('background.jpg');
   background-size: cover;
   background-position: center center;
   max-width: 100%;
