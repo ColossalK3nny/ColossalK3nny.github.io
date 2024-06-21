@@ -11230,8 +11230,7 @@ section.resume-section .resume-section-content {
   background-image: url('background.jpg');
   background-size: cover;
   background-position: center center;
-  filter: blur(10px); /* Adjunk hozzá blur filtert */
-  filter: grayscale(40%); /* Adjunk hozzá szürkeárnyalatot */
+  filter: blur(3px); /* Adjunk hozzá blur filtert */
   z-index: -1; /* A háttér legyen a tartalom mögött */
 }
 
