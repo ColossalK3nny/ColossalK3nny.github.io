@@ -11214,15 +11214,33 @@ section.resume-section .resume-section-content {
 
 #mysection {
   position: relative;
-  background-image: url('background.jpeg');
-  background-size: cover;
-  background-position: center center;
+  overflow: hidden;
   max-width: 100%;
   height: auto;
-
+  padding: 20px; /* Adjunk hozzá paddinget a tartalom elkülönítéséhez a szélektől */
 }
+
+#mysection::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-position: center center;
+  filter: blur(10px); /* Adjunk hozzá blur filtert */
+  filter: grayscale(40%); /* Adjunk hozzá szürkeárnyalatot */
+  z-index: -1; /* A háttér legyen a tartalom mögött */
+}
+
+.resume-section-content {
+  position: relative;
+  z-index: 1; /* A tartalom legyen a háttér előtt */
 #modalBtn{
   cursor:pointer;
+}
 }
 
 #dark-mode-toggle {
